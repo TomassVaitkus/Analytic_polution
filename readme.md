@@ -6,7 +6,7 @@
 
 
 ### Make selection of Country aaand we see first chart
-![alt text](image-2.png)
+![alt text](/readmepic/image-2.png)
 
 
 ### And second graph
