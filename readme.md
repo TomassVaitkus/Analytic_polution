@@ -2,7 +2,7 @@
 
 
 ### Main table
-![alt text](image.png)
+![alt text](/readmepic/image.png)
 
 
 ### Make selection of Country aaand we see first chart
@@ -10,7 +10,7 @@
 
 
 ### And second graph
-![alt text](image-3.png)
+![alt text](/readmepic/image-3.png)
 
 
 #### will be more.... :)
